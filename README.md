@@ -37,11 +37,12 @@ Collection of tools, resources, and additional information on how to implement a
 - Stark for Sketch: http://www.getstark.co/
 - Squint Test Chrome Extension: https://chrome.google.com/webstore/detail/the-squint-test/gppnipfbappicilfniaimcnagbpfflpg 
 - Contrast Chrome Extension: https://chrome.google.com/webstore/detail/wcag-luminosity-contrast/lllpnmpooomecmbmijbmbikaacgfdagi
+- Axe Accessibility Analyzer: https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US
 
 ## Screen Readers
-- NVAccess: https://www.nvaccess.org 
-- JAWS: https://www.freedomscientific.com/
-- Orca: https://help.gnome.org/users/orca/stable/index.html.en  
+- NVAccess (MacOS): https://www.nvaccess.org 
+- JAWS (Windows OS): https://www.freedomscientific.com/
+- Orca (Linux OS): https://help.gnome.org/users/orca/stable/index.html.en  
 
 ## PDF Information
 - PDFs Accessibility Checklist: https://www.hhs.gov/web/section-508/making-files-accessible/checklist/pdf/index.html
@@ -49,7 +50,15 @@ Collection of tools, resources, and additional information on how to implement a
 
 ## ADA/WCAG Scanning Tools
 - WAVE (Code Validator): https://wave.webaim.org/
-- Siteimprove: https://siteimprove.com/
+- HTML CodeSniffer: https://squizlabs.github.io/HTML_CodeSniffer/
+- SiteImprove: https://siteimprove.com/
+- SiteImprove Free Extension (recommended): https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc?hl=en-US
 - Lighthouse by Google: https://developers.google.com/web/tools/lighthouse/
 - Deque (Accessibility Testing Suite): https://www.deque.com/tools/
 - WAI list: https://www.w3.org/WAI/ER/tools/
+
+## ADA Cases
+- NAD v. Netflix 2012: https://www.nad.org/2012/06/19/landmark-precedent-in-nad-vs-netflix/
+- NAD v. Hulu 2017: http://dralegal.org/press/nationwide-class-action-challenges-hulus-discrimination-blind-visually-impaired-individuals/
+- NAD v. MIT and Harvard: https://creeclaw.org/online-content-lawsuit-harvard-mit/
+- Further Cases: https://www.3playmedia.com/resources/accessibility-lawsuits/
