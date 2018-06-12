@@ -58,7 +58,7 @@ Collection of tools, resources, and additional information on how to implement a
 - WAI list: https://www.w3.org/WAI/ER/tools/
 
 ## ADA Cases
-- NAD v. Netflix 2012: https://www.nad.org/2012/06/19/landmark-precedent-in-nad-vs-netflix/
 - NAD v. Hulu 2017: http://dralegal.org/press/nationwide-class-action-challenges-hulus-discrimination-blind-visually-impaired-individuals/
-- NAD v. MIT and Harvard: https://creeclaw.org/online-content-lawsuit-harvard-mit/
+- NAD v. MIT and Harvard 2015: https://creeclaw.org/online-content-lawsuit-harvard-mit/
+- NAD v. Netflix 2012: https://www.nad.org/2012/06/19/landmark-precedent-in-nad-vs-netflix/
 - Further Cases: https://www.3playmedia.com/resources/accessibility-lawsuits/
