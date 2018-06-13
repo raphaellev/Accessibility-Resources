@@ -40,7 +40,8 @@ Collection of tools, resources, and additional information on how to implement a
 - Axe Accessibility Analyzer: https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US
 
 ## Screen Readers
-- NVAccess (MacOS): https://www.nvaccess.org 
+- VoiceOver (native on Mac OS): https://www.apple.com/accessibility/mac/vision/
+- NVAccess (Windows OS): https://www.nvaccess.org 
 - JAWS (Windows OS): https://www.freedomscientific.com/
 - Orca (Linux OS): https://help.gnome.org/users/orca/stable/index.html.en  
 
