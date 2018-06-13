@@ -62,3 +62,8 @@ Collection of tools, resources, and additional information on how to implement a
 - NAD v. MIT and Harvard 2015: https://creeclaw.org/online-content-lawsuit-harvard-mit/
 - NAD v. Netflix 2012: https://www.nad.org/2012/06/19/landmark-precedent-in-nad-vs-netflix/
 - Further Cases: https://www.3playmedia.com/resources/accessibility-lawsuits/
+
+## Certifications for WCAG 2.0
+- WAI: https://webaim.org/services/certification/ 
+- Accessible Web: https://accessibleweb.com/services/wcag-2-0-compliance-certification/ 
+- Interactive Accessibility: http://www.interactiveaccessibility.com/services/accessibility-certification
