@@ -47,7 +47,9 @@ Collection of tools, resources, and additional information on how to implement a
 
 ## PDF Information
 - PDFs Accessibility Checklist: https://www.hhs.gov/web/section-508/making-files-accessible/checklist/pdf/index.html
+- Adobe Accessibility Checker: https://www.adobe.com/accessibility.html
 - PDF Scanner/Checker: http://www.access-for-all.ch/en/pdf-lab/pdf-accessibility-checker-pac.html
+- Accessing PDFs with Assistive Technology: https://wwwimages2.adobe.com/content/dam/acom/en/accessibility/pdfs/accessing-pdf-sr.pdf
 
 ## ADA/WCAG Scanning Tools
 - WAVE (Code Validator): https://wave.webaim.org/
